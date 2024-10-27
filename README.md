@@ -1,5 +1,5 @@
-# CODEWORDS 2024
-## RMIT STUDIO 2024
+# CODEWORDS SKO 2024
+## RMIT CODEWORDS CREATIVE CODING AND TYPOGRAPHY STUDIO 
 Melbourne, Australia
 
 This studio, Codewords Creative Coding and Typography, is a 12-weeks course that explores and engages with the creative possibilities of computer code and scripting. The studio will be guided by Karen Ann Donnachie and Andy Simionato through a series of theoretical and practical workshops. By integrating computer programming with typography during the course, I have expanded my design practice and investigate how reading and writing are evolving in the digital age. Through this combination of code and text, I have discovered new ways to express ideas and push the boundaries of modern communication. As an UXUI design student, I seek to apply drawing from critical texts on art and language, and transform these concepts into original, code-driven typographic expressions.
