@@ -9,6 +9,10 @@
     src: url('Fonts/AndaleMono.ttf');
     font-weight: 500;
   }
+html{
+  cursor: pointer;
+}
+
   body {
     font-family: Display;
     font-weight: 650;
@@ -111,6 +115,13 @@
     padding-left: 2vw;
     padding-right: 2vw;
   }
+
+  .link:hover{
+    cursor: grab;
+    text-shadow: 0 0 20px white;
+
+
+  }
   .link2 {
     font-family: Text;
     color: white;
@@ -123,6 +134,33 @@
     padding-left: 3vw;
     padding-right: 3vw;
     line-height: 130%;
+
+  }
+  .link2:hover{
+    text-shadow: 0 0 20px white;
+    cursor: grab;
+
+
+  }
+  .link3 {
+    font-family: Text;
+    color: white;
+    display:inline-block;
+    text-align: left; 
+    text-decoration: underline; 
+    font-size: clamp(5px,1.2vw,30px);
+    font-weight: 1;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 50vw;
+    padding-right: 3vw;
+    line-height: 130%;
+
+  }
+  .link3:hover{
+    text-shadow: 0 0 20px white;
+    cursor: grab;
+
 
   }
   .middleLine {
